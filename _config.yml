@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 gem "github-pages", group: :jekyll_plugins
+title: [Iyifan's github]
+description: [A short description of your site's purpose]
