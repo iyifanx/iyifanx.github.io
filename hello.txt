@@ -1,2 +1,12 @@
 helloworld
+
 https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
+
+Quantumult v2ray订阅地址https://freemycloud.site/link/KJaqqXHeqxG5oJna?list=quantumult
+
+Quantumult ssr订阅地址https://freemycloud.site/link/KJaqqXHeqxG5oJna?sub=1
+
+v2ray订阅地址https://freemycloud.site/link/KJaqqXHeqxG5oJna?sub=3
+
+小火箭订阅地址
+https://freemycloud.site/link/KJaqqXHeqxG5oJna?list=shadowrocket
