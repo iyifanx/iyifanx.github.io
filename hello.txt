@@ -1,1 +1,2 @@
 helloworld
+https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/QuantumultX_Profiles.conf
