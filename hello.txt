@@ -10,3 +10,5 @@ v2ray订阅地址https://freemycloud.site/link/KJaqqXHeqxG5oJna?sub=3
 
 小火箭订阅地址
 https://freemycloud.site/link/KJaqqXHeqxG5oJna?list=shadowrocket
+
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Rewrite.conf
